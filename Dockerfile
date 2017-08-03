@@ -12,6 +12,8 @@ RUN yum install -y python-devel mysql-devel gcc
 RUN yum -y install epel-release
 RUN yum -y install python-pip
 
+# install mysql-client support 
+RUN yum install -y mysql
 
 # create app web
 RUN mkdir -p /opt/webapp/
