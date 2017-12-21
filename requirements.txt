@@ -17,3 +17,4 @@ pyzmq==16.0.2
 supervisor
 gunicorn
 mysql-python
+jwt
