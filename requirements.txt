@@ -10,7 +10,7 @@ Flask_SQLAlchemy==2.2
 Flask_Login==0.4.0
 setuptools==35.0.2
 Flask_Moment==0.5.1
-Werkzeug==0.11.10
+Werkzeug==0.12
 msgpack_python==0.4.8
 netaddr==0.7.19
 pyzmq==16.0.2
